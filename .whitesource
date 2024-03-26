@@ -1,7 +1,9 @@
 {
   "settingsInheritedFrom": "jorgerdemocorp-mend-selfhosted/whitesource-config@main",
   "scanSettings": {
-    "configMode": "LOCAL"
+    "configMode": "LOCAL",
+    "minSeverityLevel": "LOW",
+    "issueType": "VULNERABILITY"
   }
 }
 
