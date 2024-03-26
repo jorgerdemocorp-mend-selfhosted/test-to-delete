@@ -2,10 +2,6 @@
   "settingsInheritedFrom": "jorgerdemocorp-mend-selfhosted/whitesource-config@main",
   "scanSettings": {
     "configMode": "LOCAL"
-  },
-  "remediateSettings": {
-    "enableRenovate": true,
-    "extends": ["config:recommended"]
   }
 }
 
