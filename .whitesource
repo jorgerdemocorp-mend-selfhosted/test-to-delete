@@ -1,9 +1,8 @@
 {
   "settingsInheritedFrom": "jorgerdemocorp-mend-selfhosted/whitesource-config@main",
-  "scanSettings": {
+  "issueSettings": {
     "minSeverityLevel": "LOW",
-    "issueType": "DEPENDENCY"
+    "issueType": "VULNERABILITY"
   }
 }
-
 
